@@ -1,0 +1,6 @@
+Çalışma-02
+kullanıcıdan 1 ile 7 arasında bir sayı girmesini isteyin, girdiği sayı haftanın hangi gününe denk geliyorsa ekrana yazdırın.
+(1 ise pazartesi, 7 ise pazar şeklinde).
+Kullanıcı 0 girene kadar program sonlanmamalı.
+Farklı bir sayı girdiğinde ise geçersiz bir sayı girdiniz uyarısı verip tekrar girmesini istemelisiniz.
+NOT: for ve switch-case yapılarını kullanmalısınız.
