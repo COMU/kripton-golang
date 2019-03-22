@@ -1,0 +1,16 @@
+Çalışma-03
+SORU 1:
+10'ar elemanlı A ve B gibi 2 tane dizi tanımlayın. Bu dizilerin
+elemanlarını kullanıcıdan isteyin.
+Bu dizilerden ilkini büyükten küçüğe, diğerini ise küçükten büyüğe sıralayın.
+Sıralama işleminden sonra dizilerin elemanlarını toplayıp yeni bir
+diziye atayın. (A[0] ve B[0]'ı toplayıp C[0]'a,  A[1] ve B[1]'i
+toplayıp C[1]'e şeklinde)
+
+SORU 2:
+Öyle bir dizi tanımlayın ki her bir elemanı kendinden önceki
+elemanların çarpımının bir fazlası olsun.
+Dizinin ilk elemanını 1 ikinci elemanını 2 alın.
+Dizi toplamda 20 elemanlı olsun.
+
+Not: Soruları çözerken şimdiye kadar öğrendiğimiz kavramları da kullanmalısınız.
